@@ -54,6 +54,7 @@ function plugin_version_loginbyemail() {
        'version'        => '1.0.0',
        'author'         => 'Edgard Lorraine Messias',
        'homepage'       => 'https://github.com/edgardmessias/loginbyemail',
+       'license'        => 'BSD-3-Clause',
        'minGlpiVersion' => '0.80'
    );
 }
